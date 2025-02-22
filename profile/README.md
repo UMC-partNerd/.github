@@ -1,3 +1,8 @@
+
+<img src="../img/partnerd_intro.png" alt="파트너드 설명 사진">
+
+
+<!--
 # partNerd
 UMC 7th project_partNerd
 
@@ -17,3 +22,4 @@ UMC 7th project_partNerd
 - **Backend**: SpringBoot
 - **Database**: MongoDB  
 
+-->
